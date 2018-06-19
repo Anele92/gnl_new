@@ -1,0 +1,10 @@
+Do you want to validate get next line??
+Its easy...
+Just understand how your code works my friend.
+
+Return 1 - if reading has completed.
+Return -1 - if there was an error
+or Return 0 - if reading has completed.
+
+Thank you.
+From Anele Noroita.
