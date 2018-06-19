@@ -6,13 +6,13 @@
 /*   By: anoroita <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/06/19 12:21:19 by anoroita          #+#    #+#             */
-/*   Updated: 2018/06/19 12:22:26 by anoroita         ###   ########.fr       */
+/*   Updated: 2018/06/19 17:48:59 by anoroita         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef GET_NEXT_LINE_H
 # define GET_NEXT_LINE_H
-# define BUFF_SIZE 10
+# define BUFF_SIZE 16
 # include <unistd.h>
 # include <stdlib.h>
 # include "libft/libft.h"
